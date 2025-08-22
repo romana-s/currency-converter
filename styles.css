@@ -63,7 +63,7 @@ select, input{
 
 button{
     display: inline-block;
-    background-color: #772FD3;
+    background-color: #10a50b;
     color: #ffffff;
     border-radius: 8px;
     width: 327px;
@@ -91,7 +91,7 @@ section{
     border-radius: 20px;
     background: #F4F4F4;
     width: 327px;
-    border: 1px solid #772FD3;
+    border: 3px solid #11570b;
     padding: 12px;
 
     display: flex;
